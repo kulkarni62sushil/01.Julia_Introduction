@@ -35,12 +35,8 @@ Anaconda and Canopy comes pre packaged with all the necessary Juila libraries
 and also IJulia. 
 
 ### Anaconda
-Download [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=flate&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/individual)
 
 Download [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/individual)
-
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)(https://www.anaconda.com/products/individual)
-
 
 Anaconda is completely free
 
