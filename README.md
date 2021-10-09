@@ -1,1 +1,2 @@
-# Julia_Programming
+# Julia
+# Introduction to Julia
