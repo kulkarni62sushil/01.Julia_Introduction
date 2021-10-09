@@ -16,7 +16,7 @@ Once installed, open Julia!! You will see a command-line interface. Now install 
 
 `add IJulia`
 
-If you already have `Python/Jupyter` installed on your machine, this process will also install a kernel specification that tells `Jupyte`r how to launch Julia. You can then launch the notebook server the usual way by running `jupyter notebook` in the terminal.
+If you already have `Python/Jupyter` installed on your machine, this process will also install a kernel specification that tells `Jupyter` how to launch Julia. You can then launch the notebook server the usual way by running `jupyter notebook` in the terminal.
 
 Alternatively, you can have IJulia create and manage its own Python/Jupyter installation. To do this, type the following in Julia, at the `julia>` prompt:
 
