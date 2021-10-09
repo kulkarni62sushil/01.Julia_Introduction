@@ -10,24 +10,20 @@ Julia is a programming language used for statistical computations and data analy
 
 ## Installation 
 Before starting with the installation process, you need to download it. 
-Julia for Windows is available on its official site [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://JuliaLang.github.io/IJulia.jl/dev)
+Julia for Windows is available on its official site [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/downloads/)
 
-To install `iJulia` run the following commands:
+Once installed, open Julia!! You will see a command-line interface. Now install IJulia from the Julia REPL by pressing ] to enter pkg mode and entering:
 
----
+`add IJulia`
 
-**Open the Julia Command-Line**
+If you already have `Python/Jupyter` installed on your machine, this process will also install a kernel specification that tells `Jupyte`r how to launch Julia. You can then launch the notebook server the usual way by running `jupyter notebook` in the terminal.
 
-Open the Julia command-line, also known as the 
-`REPL (read-eval-print-loop)`:
+Alternatively, you can have IJulia create and manage its own Python/Jupyter installation. To do this, type the following in Julia, at the `julia>` prompt:
 
-In order to add Julia to Jupyter Notebook, you’ll need to type the following command and then press ENTER:
+`using IJulia`
+`notebook()`
 
-`using Pkg`
-
-`Pkg.add("IJulia")`
-
-IJulia is the package that will provide the connection between Jupyter and Julia. You may need to wait while it downloads and installs.
+to launch the `IJulia` notebook in your browser. 
 
 ---
 
@@ -37,7 +33,6 @@ Installing all the necessary libraries might prove troublesome.
 Anaconda and Canopy comes pre packaged with all the necessary Juila libraries 
 and also IJulia. 
 
----
 
 ### Anaconda
 
