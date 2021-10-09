@@ -68,7 +68,6 @@ In Anaconda, Open the respective terminals and execute the above.
 | `07.`      | `Julia_Expressions ` |
 
 
-**[What_is_Programming](https://github.com/milaan9/01_Python_Introduction/blob/main/0000_What_is_Programming.ipynb)** 
 
 
 
