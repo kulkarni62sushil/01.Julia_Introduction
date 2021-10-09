@@ -38,10 +38,11 @@ and also IJulia.
 
 Download [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/individual)
 
-Anaconda is completely free
+It is a free software and can be use to run `Python`, `R` and `Julia`
 
-Launching Julia on  ![Jupyter Notebook ](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
-**Notebook**
+## Launching Julia on  
+<a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a> Notebook
+
 From the terminal
 
 
@@ -50,9 +51,7 @@ From the terminal
 In Anaconda, Open the respective terminals and execute the above.
 
 
-```http
-  GET /api/items/${id}
-```
+
 
 | Sr. No. | Name     | 
 | :-------- | :------- | 
