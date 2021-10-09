@@ -57,10 +57,10 @@ In Anaconda, Open the respective terminals and execute the above.
 
 ## Table of contents 📋
 
-| Sr. No. |    Name     | 
+| **Sr. No.** |    **Name**     | 
 | :-------- | :------- | 
-| `01.`      | `History_Julia` |
-| `02.`      | `Installation_Julia` |
+| `01.`      | **[History_Julia`](http://localhost:8888/notebooks/Julia_Lectures/01.%20History%20of%20Julia.ipynb#)** |
+| `02.`      | `Installation_Julia`                                                                                   |
 | `03.`      | `Hello_Julia_Program ` |
 | `04.`      | `Julia_Keywords_Identifiers ` |
 | `05.`      | `Julia_Expressions ` |
@@ -68,7 +68,7 @@ In Anaconda, Open the respective terminals and execute the above.
 | `07.`      | `Julia_Expressions ` |
 
 
-
+**[What_is_Programming](https://github.com/milaan9/01_Python_Introduction/blob/main/0000_What_is_Programming.ipynb)** 
 
 
 
