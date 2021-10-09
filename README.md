@@ -59,7 +59,7 @@ In Anaconda, Open the respective terminals and execute the above.
 
 | **Sr. No.** |    **Name**     | 
 | :-------- | :------- | 
-| `01.`      | **[History_Julia`](http://localhost:8888/notebooks/Julia_Lectures/01.%20History%20of%20Julia.ipynb#)** |
+| `01.`      | **[History_Julia](http://localhost:8888/notebooks/Julia_Lectures/01.%20History%20of%20Julia.ipynb#)** |
 | `02.`      | `Installation_Julia`                                                                                   |
 | `03.`      | `Hello_Julia_Program ` |
 | `04.`      | `Julia_Keywords_Identifiers ` |
