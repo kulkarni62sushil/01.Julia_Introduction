@@ -40,17 +40,18 @@ Download [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=
 
 It is a free software and can be use to run `Python`, `R` and `Julia`
 
-## Launching Julia on  
+## Launching Julia 
+
 <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a> Notebook
 
-From the terminal
+From the terminal type
 
 
 `ipython notebook`
 
 In Anaconda, Open the respective terminals and execute the above.
 
-
+---
 
 
 | Sr. No. | Name     | 
