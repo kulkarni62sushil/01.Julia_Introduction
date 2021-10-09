@@ -39,7 +39,7 @@ Download [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=f
 
 
 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/individual)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)(https://www.anaconda.com/products/individual)
 
 Anaconda is completely free
 
