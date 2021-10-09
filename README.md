@@ -16,7 +16,7 @@ Julia for Windows is available on its official site
 
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
-[![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white](https://JuliaLang.github.io/IJulia.jl/dev)
+[![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://JuliaLang.github.io/IJulia.jl/dev)
 
 To install `iJulia` run the following commands:
 
