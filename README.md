@@ -11,6 +11,9 @@ Julia is a programming language used for statistical computations and data analy
 ## Installation 
 Before starting with the installation process, you need to download it. 
 Julia for Windows is available on its official site 
+
+[![Julia](https://img.shields.io/badge/docs-latest-blue.svg)](https://JuliaLang.github.io/IJulia.jl/dev)
+
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 To install `iJulia` run the following commands:
