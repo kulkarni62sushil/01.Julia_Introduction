@@ -49,10 +49,10 @@ It is a free software and can be use to run `Python`, `R` and `Julia`
 ---
 
 ## Launching Julia 
-
+Use
 <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a> Notebook
 
-From the terminal type
+and from the terminal type
 
 
 `ipython notebook`
