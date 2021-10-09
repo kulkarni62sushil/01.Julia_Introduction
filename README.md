@@ -1,2 +1,1 @@
 # Julia
-# Introduction to Julia
